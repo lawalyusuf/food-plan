@@ -1,6 +1,6 @@
 ## ⭐ Omnifood-Never Cook Again ⭐
 
-A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, CSS3, and JavaScript.**
+A Food Delivery Startup's **Fully Responsive** website, built using **HTML5, CSS3, and JavaScript.**
 <br>
 
 ## 📌 **Live Site URL:** <a href="https://omnifood-to-cook.netlify.app/" target="_blank">**Visit Now** 🚀</a>
@@ -33,11 +33,11 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Rushikesh Gandhmal](https://www.linkedin.com/in/rushikesh-gandhmal/)
-- **Twitter** - [@rushikesh1s](https://twitter.com/rushikesh1s)
+- **LinkedIn** - [Lawal Yusuf](https://www.linkedin.com/in//)
+- **Twitter** - [@yusuf](https://twitter.com/)
 
 ## 📌 Acknowledgments
 
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+- This ReadMe File Inspired From - [Lawal Yusuf](https://github.com/lawalyusuf)
 - Course Instructor - [Jonas Schmedtmann](https://codingheroes.io/)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
